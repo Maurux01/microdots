@@ -1,0 +1,10 @@
+-- fullstack plugins
+micro:plugin_add("comments")
+micro:plugin_add("filetype")
+micro:plugin_add("lsp")
+micro:plugin_add("emmet")
+micro:plugin_add("autosave")
+micro:plugin_add("nerdtree")
+micro:plugin_add("fzf")
+micro:plugin_add("markdown-preview")
+micro:plugin_add("live-server")

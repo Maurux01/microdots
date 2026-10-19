@@ -1,0 +1,18 @@
+{
+  "color-scheme": "gruvbox",
+  "tab-size": 2,
+  "soft-tabs": true,
+  "autoindent": true,
+  "ruler": true,
+  "cursorline": true,
+  "relativenumber": true,
+  "scroll-speed": 10,
+  "statusline": true,
+  "syntax": true,
+  "multicursor": true,
+  "microui": false,
+  "plugin": {
+    "enabled": ["comments", "filetype", "lsp", "emmet", "autosave", "nerdtree", "fzf"],
+    "lsp": { "languages": ["javascript", "typescript", "python", "html", "css", "go", "rust"] }
+  }
+}
